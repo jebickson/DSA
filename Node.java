@@ -1,4 +1,4 @@
-// LInked list implementation of stack using JAVA
+// LInked list implementation of stack using JAVA 03
 
 class Node 
 {

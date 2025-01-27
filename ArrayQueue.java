@@ -1,3 +1,4 @@
+//Array implementation of Queue using JAVA 02
 class ArrayQueue{
     private int[]array;
     private int front,rear,size,capacity;

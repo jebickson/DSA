@@ -1,4 +1,4 @@
-//Array implementation of stacks
+//Array implementation of stacks 01
 class Main{
     private static final int MAX_SIZE = 5; // Maximum size of the stack
     private int top; // Index of the top element

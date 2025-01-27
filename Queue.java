@@ -1,4 +1,4 @@
-// Linked list implementation of Queues using JAVA
+// Linked list implementation of Queues using JAVA 04
 class Node
 {
     int data;
